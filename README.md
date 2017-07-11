@@ -4,7 +4,7 @@
 
 ## Installation:
 ```
-bower install --save 
+bower install --save iknsa-angularjs-filter-starts-with
 ```
 
 #### Example:
